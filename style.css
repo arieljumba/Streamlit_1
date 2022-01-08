@@ -1,0 +1,9 @@
+style.css
+
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+div[role="listbox"] ul {
+    background-color: red;
+}
